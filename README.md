@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Maham!
+- 👀 I’m interested in creating fun projects and exploring programming languages.
+- 🌱 I’m currently learning java, c++, Python.
+- :) I’m looking to collaborate on easy projects that are beginner friendly for now.
